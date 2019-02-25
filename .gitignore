@@ -1,3 +1,4 @@
 # IDEA file
 *.iml
 .idea/
+.coverage
