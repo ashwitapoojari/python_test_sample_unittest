@@ -1,4 +1,9 @@
 # IDEA file
 *.iml
 .idea/
+
+# Coverage files
 .coverage
+
+# Virtual environment
+venv/
